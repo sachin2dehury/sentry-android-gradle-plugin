@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump ComposablePreviewScanner from v0.9.3 to v0.10.0 ([#3](https://github.com/sachin2dehury/sentry-android-gradle-plugin/pull/3))
+  - [changelog](https://github.com/sergio-sastre/ComposablePreviewScanner/blob/master/CHANGELOG.md#0100)
+  - [diff](https://github.com/sergio-sastre/ComposablePreviewScanner/compare/0.9.3...0.10.0)
+
 ## 6.24.0
 
 ### Fixes
